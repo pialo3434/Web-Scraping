@@ -1,0 +1,7 @@
+{
+    "platform": "pcdiga",
+    "website_url": "https://www.pcdiga.com/search?query=maquina",
+    "driver_path": "C:\\Users\\puli\\Downloads\\edgedriver_win32\\msedgedriver.exe",
+    "saving_directory": "C:\\Users\\puli\\Desktop\\scraps",
+    "pages_to_scrape": 3
+}
