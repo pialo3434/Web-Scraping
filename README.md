@@ -2,7 +2,7 @@
 
 This project is a mockup for a web scraping application. It is designed to scrape product data from websites and save it in an Excel file. Currently, the application supports scraping from PCDiga.
 
-!Web Scraping Image
+![Web Scraping Image](https://i.imgur.com/1AxpyxV.png)
 
 ## Setup
 
